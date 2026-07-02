@@ -5,3 +5,5 @@ Student ID : 67219010088
 # My skills
  - Python
  - Html
+ - Coding
+ - Gamer
