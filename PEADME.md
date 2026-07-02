@@ -1,9 +1,20 @@
 # Student Profile
-Name: Eakkanat Chaowanna
-Student ID : 67219010088
+ - Name: Eakkanat Chaowanna
+ - Student ID : 67219010088
+ - phone Number : 083-870-9372
+ - Email : xeknadthchanowrrna@gmail.com
+ - IG : kan_//:)
+ - Nickname kan
+ - nationality Thai
+ - religion Buddhism
 
 # My skills
  - Python
  - Html
  - Coding
  - Gamer
+ - law
+ - Movies
+ - Music 
+ - Hiking
+ - Reading
