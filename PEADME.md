@@ -18,3 +18,8 @@
  - Music 
  - Hiking
  - Reading
+
+# Education
+- College : Hatyai Technical College
+- Program : lnformation Technology
+- Year : Vocational Certificate (Voc. Cert.3)
