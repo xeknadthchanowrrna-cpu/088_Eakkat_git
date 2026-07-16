@@ -23,3 +23,8 @@
 - College : Hatyai Technical College
 - Program : lnformation Technology
 - Year : Vocational Certificate (Voc. Cert.3)
+
+# song
+- Multo
+- ที่คั่นหนังสือ (Sometimes)
+- กีดกัน (Skyline)
