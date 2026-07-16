@@ -29,3 +29,7 @@
 - Lawyer
 - Human Rights officer
 
+# My Hobby
+- Readling
+- Coding
+- Music 
