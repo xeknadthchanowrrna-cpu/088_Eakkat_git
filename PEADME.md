@@ -23,3 +23,13 @@
 - College : Hatyai Technical College
 - Program : lnformation Technology
 - Year : Vocational Certificate (Voc. Cert.3)
+
+# Career Goals
+- social developer
+- Lawyer
+- Human Rights officer
+
+# My Hobby
+- Readling
+- Coding
+- Music 
