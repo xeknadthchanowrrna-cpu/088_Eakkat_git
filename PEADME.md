@@ -29,7 +29,3 @@
 - ที่คั่นหนังสือ (Sometimes)
 - กีดกัน (Skyline)
 
-# Experience
-- Political/Civic Activities
-- lnnovation skills
-- Teamwork Experience
