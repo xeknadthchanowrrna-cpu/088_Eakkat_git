@@ -24,12 +24,12 @@
 - Program : lnformation Technology
 - Year : Vocational Certificate (Voc. Cert.3)
 
-# Career Goals
-- social developer
-- Lawyer
-- Human Rights officer
+# song
+- Multo
+- ที่คั่นหนังสือ (Sometimes)
+- กีดกัน (Skyline)
 
-# My Hobby
-- Readling
-- Coding
-- Music 
+# Experience
+- Political/Civic Activities
+- lnnovation skills
+- Teamwork Experience
