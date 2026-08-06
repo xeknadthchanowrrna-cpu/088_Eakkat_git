@@ -29,3 +29,7 @@
 - ที่คั่นหนังสือ (Sometimes)
 - กีดกัน (Skyline)
 
+# About
+- Name : Eakkanat chaowanna
+- Nickname : kan
+- Birthday : 6/8/2551
