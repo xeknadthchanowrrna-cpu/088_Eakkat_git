@@ -34,7 +34,7 @@
 - lnnovation skills
 - Teamwork Experience
 
-# Favorite place
-- khao Yai
-- Chiang Mai
-- Pattaya
+# favorite food
+- Steak
+- Thai lced Tea
+- Thai lced Black Coffee
