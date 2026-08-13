@@ -33,3 +33,8 @@
 - Political/Civic Activities
 - lnnovation skills
 - Teamwork Experience
+
+# Favorite place
+- khao Yai
+- Chiang Mai
+- Pattaya
