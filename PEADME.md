@@ -33,3 +33,7 @@
 - Political/Civic Activities
 - lnnovation skills
 - Teamwork Experience
+# About
+- Name : Eakkanat chaowanna
+- Nickname : kan
+- Birthday : 6/8/2551
