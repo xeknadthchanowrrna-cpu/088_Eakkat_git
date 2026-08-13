@@ -37,3 +37,8 @@
 - Name : Eakkanat chaowanna
 - Nickname : kan
 - Birthday : 6/8/2551
+
+# favorite food
+- Steak
+- Thai lced Tea
+- Thai lced Black Coffee
